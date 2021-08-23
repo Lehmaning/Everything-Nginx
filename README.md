@@ -1,2 +1,2 @@
-# Everything-Ngnix
+# Everything-Nginx
 There is nothing here.
