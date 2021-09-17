@@ -43,3 +43,6 @@ freebrowser.org
 *.uptodown.com
 *.apkpure.com
 esu.dog
+*.privoxy.org
+*.proxifier.com
+*.torproject.org
