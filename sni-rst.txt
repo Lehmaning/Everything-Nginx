@@ -36,6 +36,7 @@ kobo.com
 my.nextdns.io
 mega.nz
 medium.com
+moises.ai
 nitter.net
 nicovideo.jp
 nyaa.si
