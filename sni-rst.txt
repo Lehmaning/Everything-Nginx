@@ -28,6 +28,7 @@ dw.com
 e-hentai.org
 epochtimes.com
 euronews.com
+eu-browse.startpage.com
 exhentai.org
 esu.dog
 ftchinese.com
@@ -63,6 +64,7 @@ theepochtimes.com
 tumblr.com
 tumblr.co
 uptodown.com
+us-browse.startpage.com
 vimeo.com
 vyprvpn.com
 japantimes.co.jp
